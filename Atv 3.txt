@@ -1,0 +1,1 @@
+Ela indica se o circuito deve realizar uma soma ou uma subtração, sendo  Binv=0, fazer soma e Binv=1, fazer subtração.
